@@ -21,4 +21,6 @@ Sophie LeBron
 
 ## Github
 
+https://github.com/sclebron/ski-resorts-reviews
+
 ## Deployed Link
