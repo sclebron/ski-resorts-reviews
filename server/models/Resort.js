@@ -15,8 +15,8 @@ const resortSchema = new Schema({
         type: String,
         required: true,
         trim: true,
-    }
-})
+    },
+});
 
 const Resort = model("Resort", resortSchema);
 
