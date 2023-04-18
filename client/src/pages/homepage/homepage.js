@@ -6,7 +6,10 @@ function Homepage() {
     return (
         <div className="home">
             <div className="title">Ski Resorts Reviews</div>
-            <div className="homepageResort"></div>
+            <div className="homepageResort">
+                <button onClick={leftScroll}></button>
+                <button onClick={rightScroll}></button>
+            </div>
         </div>
     )
 }
